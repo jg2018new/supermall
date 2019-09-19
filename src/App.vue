@@ -13,7 +13,7 @@
       return {
 
       }
-    },git
+    },
     components: {TabBar}
   }
 </script>
